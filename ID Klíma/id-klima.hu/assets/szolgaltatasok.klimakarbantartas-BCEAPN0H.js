@@ -1,0 +1,1 @@
+import{t as e}from"PageTemplate-82Nkytgw.js";import{r as t,w as n}from"index-D3_yy8oc.js";var r=n(),i=()=>(0,r.jsx)(e,{page:t});export{i as component};
